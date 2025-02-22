@@ -20,7 +20,8 @@
 
 title: Greenwing – Sustainable Innovation in Logistics
 description: Driving sustainability through digital solutions.
-baseurl: "/startup-page" # the subpath of your site, e.g. /blog
+# baseurl: "/startup-page" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpage should not be used when using custom domain
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
