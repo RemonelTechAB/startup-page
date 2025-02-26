@@ -43,7 +43,5 @@ We will continue to assess these and other challenges to determine where we can 
 ## 🌱 Join Us
 We’re currently refining our solutions and looking to collaborate with industry experts, fleet operators, and technology partners. If you share our vision, let’s connect!
 
-📩 [Contact Us](mailto:your-email@example.com)
-
 ---
 *Together, we can drive the transition to a greener future.*
