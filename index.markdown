@@ -21,10 +21,9 @@ We leverage **digitalization and data-driven solutions** to transform logistics,
 ---
 
 ## 🌱 Join Us
-We are building **innovative solutions** for a more sustainable logistics industry. If you're interested in collaboration or learning more, get in touch!
+We’re currently refining our solution and looking to collaborate with industry experts, fleet operators, and technology partners. If you share our vision, let’s connect!
 
 📩 [Contact Us](mailto:your-email@example.com)
-🔗 [LinkedIn](#)
 
 ---
 *Together, we can drive the transition to a greener future.*
