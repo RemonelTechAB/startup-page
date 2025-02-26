@@ -18,13 +18,30 @@ A future where logistics operates **smarter, cleaner, and more efficiently**, co
 ## 🚀 Our Mission
 We leverage **digitalization and data-driven solutions** to transform logistics, making sustainability an achievable and measurable goal.
 
----
+## 🚨 The Problem  
+
+A **lack of data on sustainability** is preventing the logistics industry from making informed decisions. This results in:  
+- 🔍 Limited insight for sustainable decision-making.  
+- ❌ Insufficient data to develop smarter, more efficient solutions.  
+
+We are exploring multiple challenges to understand where we can make the biggest impact. Here are two key examples:  
+
+### 🚛 Example 1: Dead Miles in Long-Haul Trucking  
+Long-haul trucks often run empty between deliveries, leading to:  
+- ⛽ Wasted fuel and increased CO₂ emissions.  
+- 💸 Higher operational costs for fleet operators.  
+- ⚡ Challenges for electric trucks, which require strategic charging.  
+
+### 📜 Example 2: Sustainability Legislation Challenges  
+New regulations push the industry toward lower emissions, but many companies struggle due to:  
+- 🚧 Low-emission zones restricting traditional trucks.  
+- 🔋 New vehicle types (EVs, hydrogen, etc.) requiring infrastructure shifts.  
+- 📊 Complex compliance requirements with limited access to accurate data.  
+
+We will continue to assess these and other challenges to determine where we can drive the most meaningful change.  
 
 ## 🌱 Join Us
-We are building **innovative solutions** for a more sustainable logistics industry. If you're interested in collaboration or learning more, get in touch!
-
-📩 [Contact Us](mailto:your-email@example.com)
-🔗 [LinkedIn](#)
+We’re currently refining our solutions and looking to collaborate with industry experts, fleet operators, and technology partners. If you share our vision, let’s connect!
 
 ---
 *Together, we can drive the transition to a greener future.*
